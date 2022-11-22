@@ -1,0 +1,30 @@
+peer #0, has initial rumors: ['RuMor rUmOR RumoR #0', 'RuMor rUmOR RumoR #1', 'RuMor rUmOR RumoR #2', 'RuMor rUmOR RumoR #3', 'RuMor rUmOR RumoR #4'], initial connected ports:['10003'], peer to connect['10006']
+peer #1, has initial rumors: ['RuMor rUmOR RumoR #5', 'RuMor rUmOR RumoR #6', 'RuMor rUmOR RumoR #7', 'RuMor rUmOR RumoR #8', 'RuMor rUmOR RumoR #9'], initial connected ports:['10000'], peer to connect['10006']
+peer #2, has initial rumors: ['RuMor rUmOR RumoR #10', 'RuMor rUmOR RumoR #11', 'RuMor rUmOR RumoR #12', 'RuMor rUmOR RumoR #13', 'RuMor rUmOR RumoR #14'], initial connected ports:['10005'], peer to connect['10007']
+peer #3, has initial rumors: ['RuMor rUmOR RumoR #15', 'RuMor rUmOR RumoR #16', 'RuMor rUmOR RumoR #17', 'RuMor rUmOR RumoR #18', 'RuMor rUmOR RumoR #19'], initial connected ports:['10005'], peer to connect['10002']
+peer #4, has initial rumors: ['RuMor rUmOR RumoR #20', 'RuMor rUmOR RumoR #21', 'RuMor rUmOR RumoR #22', 'RuMor rUmOR RumoR #23', 'RuMor rUmOR RumoR #24'], initial connected ports:['10001'], peer to connect['10009']
+peer #5, has initial rumors: ['RuMor rUmOR RumoR #25', 'RuMor rUmOR RumoR #26', 'RuMor rUmOR RumoR #27', 'RuMor rUmOR RumoR #28', 'RuMor rUmOR RumoR #29'], initial connected ports:['10008'], peer to connect['10003']
+peer #6, has initial rumors: ['RuMor rUmOR RumoR #30', 'RuMor rUmOR RumoR #31', 'RuMor rUmOR RumoR #32', 'RuMor rUmOR RumoR #33', 'RuMor rUmOR RumoR #34'], initial connected ports:['10003'], peer to connect['10002']
+peer #7, has initial rumors: ['RuMor rUmOR RumoR #35', 'RuMor rUmOR RumoR #36', 'RuMor rUmOR RumoR #37', 'RuMor rUmOR RumoR #38', 'RuMor rUmOR RumoR #39'], initial connected ports:['10004'], peer to connect['10000']
+peer #8, has initial rumors: ['RuMor rUmOR RumoR #40', 'RuMor rUmOR RumoR #41', 'RuMor rUmOR RumoR #42', 'RuMor rUmOR RumoR #43', 'RuMor rUmOR RumoR #44'], initial connected ports:['10007'], peer to connect['10004']
+peer #9, has initial rumors: ['RuMor rUmOR RumoR #45', 'RuMor rUmOR RumoR #46'], initial connected ports:['10000'], peer to connect['10008']
+
+peer #1, has rumors: ['RuMor rUmOR RumoR #5', 'RuMor rUmOR RumoR #6', 'RuMor rUmOR RumoR #7', 'RuMor rUmOR RumoR #8', 'RuMor rUmOR RumoR #9'], connected ports:['10000', '10009']
+
+peer #4, has rumors: ['RuMor rUmOR RumoR #20', 'RuMor rUmOR RumoR #21', 'RuMor rUmOR RumoR #22', 'RuMor rUmOR RumoR #23', 'RuMor rUmOR RumoR #24'], connected ports:['10001', '10000']
+
+peer #6, has rumors: ['RuMor rUmOR RumoR #30', 'RuMor rUmOR RumoR #31', 'RuMor rUmOR RumoR #32', 'RuMor rUmOR RumoR #33', 'RuMor rUmOR RumoR #34'], connected ports:['10003']
+
+peer #7, has rumors: ['RuMor rUmOR RumoR #35', 'RuMor rUmOR RumoR #36', 'RuMor rUmOR RumoR #37', 'RuMor rUmOR RumoR #38', 'RuMor rUmOR RumoR #39'], connected ports:['10004']
+
+peer #9, has rumors: ['RuMor rUmOR RumoR #45', 'RuMor rUmOR RumoR #46', 'RuMor rUmOR RumoR #5', 'RuMor rUmOR RumoR #6', 'RuMor rUmOR RumoR #7', 'RuMor rUmOR RumoR #8', 'RuMor rUmOR RumoR #9'], connected ports:['10000']
+
+peer #8, has rumors: ['RuMor rUmOR RumoR #40', 'RuMor rUmOR RumoR #41', 'RuMor rUmOR RumoR #42', 'RuMor rUmOR RumoR #43', 'RuMor rUmOR RumoR #44', 'RuMor rUmOR RumoR #15'], connected ports:['10007']
+
+peer #0, has rumors: ['RuMor rUmOR RumoR #0', 'RuMor rUmOR RumoR #1', 'RuMor rUmOR RumoR #2', 'RuMor rUmOR RumoR #3', 'RuMor rUmOR RumoR #4'], connected ports:['10003', '10006']
+
+peer #3, has rumors: ['RuMor rUmOR RumoR #15', 'RuMor rUmOR RumoR #16', 'RuMor rUmOR RumoR #17', 'RuMor rUmOR RumoR #18', 'RuMor rUmOR RumoR #19'], connected ports:['10005', '10002']
+
+peer #2, has rumors: ['RuMor rUmOR RumoR #10', 'RuMor rUmOR RumoR #11', 'RuMor rUmOR RumoR #12', 'RuMor rUmOR RumoR #13', 'RuMor rUmOR RumoR #14', 'RuMor rUmOR RumoR #15', 'RuMor rUmOR RumoR #16', 'RuMor rUmOR RumoR #17', 'RuMor rUmOR RumoR #18', 'RuMor rUmOR RumoR #19'], connected ports:['10005']
+
+peer #5, has rumors: ['RuMor rUmOR RumoR #25', 'RuMor rUmOR RumoR #26', 'RuMor rUmOR RumoR #27', 'RuMor rUmOR RumoR #28', 'RuMor rUmOR RumoR #29', 'RuMor rUmOR RumoR #15'], connected ports:['10008']
